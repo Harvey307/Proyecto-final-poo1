@@ -1,0 +1,14 @@
+﻿  Main.cpp
+C:\Users\Lenovo\Desktop\PROYECTOBJ FINAL - prototipos pa fina\PROYECOBJ\ClienteVector.h(59,1): warning C4267: 'return': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\Lenovo\Desktop\PROYECTOBJ FINAL - prototipos pa fina\PROYECOBJ\ClienteVector.h(83,11): warning C4930: 'Cliente busqueda_nomape(std::string)': no se ha llamado a la función prototipo (¿se pensó una definición de variable?)
+C:\Users\Lenovo\Desktop\PROYECTOBJ FINAL - prototipos pa fina\PROYECOBJ\ProductoVector.h(45,1): warning C4267: 'return': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\Lenovo\Desktop\PROYECTOBJ FINAL - prototipos pa fina\PROYECOBJ\VendedorVector.h(39,1): warning C4267: 'return': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\Lenovo\Desktop\PROYECTOBJ FINAL - prototipos pa fina\PROYECOBJ\FacturaDetalleVector.h(40,1): warning C4267: 'return': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\Lenovo\Desktop\PROYECTOBJ FINAL - prototipos pa fina\PROYECOBJ\FacturaVector.h(41,1): warning C4267: 'return': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\Lenovo\Desktop\PROYECTOBJ FINAL - prototipos pa fina\PROYECOBJ\PersonalVector.h(37,1): warning C4267: 'return': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\Lenovo\Desktop\PROYECTOBJ FINAL - prototipos pa fina\PROYECOBJ\AdminVector.h(29,1): warning C4267: 'return': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\Lenovo\Desktop\PROYECTOBJ FINAL - prototipos pa fina\PROYECOBJ\Main.cpp(550,19): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+C:\Users\Lenovo\Desktop\PROYECTOBJ FINAL - prototipos pa fina\PROYECOBJ\FacturaVector.h(61): warning C4715: 'FacturaVector::buscarPorCodigo': no todas las rutas de acceso de control devuelven un valor
+C:\Users\Lenovo\Desktop\PROYECTOBJ FINAL - prototipos pa fina\PROYECOBJ\FacturaVector.h(175): warning C4715: 'FacturaVector::modificarEstado': no todas las rutas de acceso de control devuelven un valor
+C:\Users\Lenovo\Desktop\PROYECTOBJ FINAL - prototipos pa fina\PROYECOBJ\FacturaDetalleVector.h(73): warning C4715: 'FacturaDetalleVector::buscarPorCod': no todas las rutas de acceso de control devuelven un valor
+  PROYECOBJ.vcxproj -> C:\Users\Lenovo\Desktop\PROYECTOBJ FINAL - prototipos pa fina\PROYECOBJ\x64\Debug\PROYECOBJ.exe
