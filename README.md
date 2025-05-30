@@ -9,18 +9,23 @@ El programa es para uso de un vendedor o administrador de una bodega.
 
 Capturas del programa ejecutado:
 
-VISTA DE USUARIOS
+VISTA DE USUARIOS:
+
 ![image](https://github.com/user-attachments/assets/2978ed6c-ab39-43de-83a0-57e27a357c90)
 
-VISTA GENERAL
+VISTA GENERAL:
+
 ![image](https://github.com/user-attachments/assets/de6e3450-051b-4fa4-99f3-0ac52d31fc58)
 
-VISTA PRODUCTOS
+VISTA PRODUCTOS:
+
 ![image](https://github.com/user-attachments/assets/68feefb3-a931-4339-9e2a-b8af37e2a5fd)
 
-VISTA VENTAS
+VISTA VENTAS:
+
 ![image](https://github.com/user-attachments/assets/e87cee6a-95ad-4f74-9802-042e00f2c2d5)
 
-VISTA CLIENTES
+VISTA CLIENTES:
+
 ![image](https://github.com/user-attachments/assets/d69849db-746f-4232-ba33-124e7a5e1ea6)
 
