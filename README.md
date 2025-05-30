@@ -5,8 +5,9 @@ Este proyecto es un sistema de tienda virtual en escritorio en el cual los datos
 3.	Registrar, Modificar, Listar , Busqueda de ventas.
 4.	Generar la venta, la cual debe ser capaz de almacenar varios productos por venta
 5.	Anular la venta, en caso el cliente no desee el producto comprado, en tal caso se debe poder cambiar el estado.
-El progama es para uso de un vendedor o administrador de una bodega.
-Capturas del progrmaa ejecutado:
+El programa es para uso de un vendedor o administrador de una bodega.
+
+Capturas del programa ejecutado:
 
 VISTA DE USUARIOS
 ![image](https://github.com/user-attachments/assets/2978ed6c-ab39-43de-83a0-57e27a357c90)
